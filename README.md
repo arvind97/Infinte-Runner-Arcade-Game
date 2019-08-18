@@ -1,5 +1,5 @@
-# Infinte-Runner-Arcade-Game
-An Infinte Runner based Arcade Game created on Unity Game Engine.
+# Infinite-Runner-Arcade-Game
+An Infinite Runner based Arcade Game created on Unity Game Engine.
 
 The backend has been written in C#.
 
